@@ -6,10 +6,10 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Murillo F. Rodrigues
-tagline:          'Aspiring evolutionary biologist & data scientist'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            M. F. Rodrigues
+tagline:          ''
+description:      'Aspiring evolutionary biologist & data scientist'
+url:              mufernando.github.io
 baseurl:          /
 
 author:
