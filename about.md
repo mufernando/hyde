@@ -3,11 +3,11 @@ layout: page
 title: About
 ---
 
-<p class="message">
+<!--<p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+</p-->
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm a biologist with interest in evolutionary biology and data science. I got my B.A. in Biology at University of Sao Paulo (USP) and I am currently a Master's student in the Department of Genetics and Evolutionary Biology (also at USP). I have broad interest in evolutionary biology, but I am currently working on contemporary selection in <i>Drosophila melanogaster</i>'s immune system. In the past, I've worked with molecular phylogenetics of stingray tapeworms.
 
 There are currently two themes built on Poole:
 
