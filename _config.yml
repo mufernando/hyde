@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            M. F. Rodrigues
 tagline:          ''
-description:      'Aspiring evolutionary biologist & data scientist'
+description:      'Aspiring evolutionary biologist'
 url:              mufernando.github.io
 baseurl:          /
 
@@ -22,4 +22,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/mufernando
