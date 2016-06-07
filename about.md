@@ -8,8 +8,6 @@ title: About
 </p-->
 <center><img align="center" src="http://mufernando.github.io/public/murillofr.jpg"></center>
 
-|| ![](http://mufernando.github.io/public/murillofr.jpg "Me!") ||
-
 I'm a biologist with broad interest in evolutionary biology and data science. I got my B.A. in Biology at University of Sao Paulo (USP) (2012-2015). Currently, I am a Master's student in the Department of Genetics and Evolutionary Biology (2016-now) and a Undergraduate student of Applied Mathematics (2016-now), both at USP. I am working on contemporary selection in <i>Drosophila melanogaster</i>'s immune system (2015-now), but during undergrad in Biology I've worked on molecular phylogenetics of stingray tapeworms (2013-2014).
 
 You can find out more about me here:
