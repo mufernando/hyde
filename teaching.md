@@ -7,4 +7,4 @@ title: Teaching
   These are the teaching materials I've used so far.
 </p>
 
-* [Biostatistics with R](https://github.com/mufernando/bioestat) (_PT-BR_)
+* [Biostatistics with R](https://github.com/mufernando/bioestat) _(PT-BR)_
