@@ -12,7 +12,7 @@ I'm a biologist with broad interest in evolutionary biology and data science. I 
 
 You can find out more about me here:
 
-* [CV]()
+* [CV](http://mufernando.github.io/public/murillo_cv.pdf)
 * [Github](github.com/mufernando)
 * [Lattes](http://lattes.cnpq.br/8568338838378530)
 * [Facebook](https://www.facebook.com/murillofernandor)
