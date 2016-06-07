@@ -6,7 +6,7 @@ title: About
 <!--<p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p-->
-<img align="center" src="http://mufernando.github.io/public/murillofr.jpg">
+<center><img align="center" src="http://mufernando.github.io/public/murillofr.jpg"></center>
 
 || ![](http://mufernando.github.io/public/murillofr.jpg "Me!") ||
 
