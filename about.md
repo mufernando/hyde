@@ -11,6 +11,7 @@ I'm a biologist with broad interest in evolutionary biology and data science. I 
 
 You can find out more about me here:
 
+* [CV]()
 * [Github](github.com/mufernando)
-* [Curriculum Lattes](http://lattes.cnpq.br/8568338838378530)
+* [Lattes](http://lattes.cnpq.br/8568338838378530)
 * [Facebook](https://www.facebook.com/murillofernandor)
