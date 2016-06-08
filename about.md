@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About -- Murillo Fernando Rodrigues
+title: About
 ---
 
 <!--<p class="message">
