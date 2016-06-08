@@ -259,6 +259,6 @@ a.sidebar-nav-item:focus {
 }
 
 #disqus_thread {
-  width: 60%;
-  margin: auto;
+  width: 70%;
+  padding: 20px;
 }
