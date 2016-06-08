@@ -257,3 +257,7 @@ a.sidebar-nav-item:focus {
 .theme-base-0g .related-posts li a:hover {
   color: #005685;
 }
+
+#disqus_thread {
+  padding: 25px;
+}
