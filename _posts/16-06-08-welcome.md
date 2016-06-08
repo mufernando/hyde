@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome!
+comments: True
 ---
 
 Hi, everyone!
