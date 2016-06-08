@@ -16,3 +16,5 @@ You can find out more about me here:
 * [Github](github.com/mufernando)
 * [Lattes](http://lattes.cnpq.br/8568338838378530)
 * [Facebook](https://www.facebook.com/murillofernandor)
+
+Or just e-mail me: <a href="mailto:murillofer.rodrigues@gmail.com">murillofer.rodrigues(at)gmail.com</a>
