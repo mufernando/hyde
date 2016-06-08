@@ -259,5 +259,5 @@ a.sidebar-nav-item:focus {
 }
 
 #disqus_thread {
-  padding: 25px;
+  width: 60%;
 }
