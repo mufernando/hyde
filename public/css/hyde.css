@@ -282,3 +282,7 @@ a.sidebar-nav-item:focus {
 .sidebar:hover {
 	opacity: 1.0;
 }
+
+#contact-list:hover {
+	text-decoration: none;
+}
