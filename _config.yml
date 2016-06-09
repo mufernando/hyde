@@ -13,8 +13,11 @@ url:              mufernando.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name: 'Murillo Fernando Rodrigues'
+  email: 'aula[dot]ludus[at]gmail[dot]com[dot]'
+  github: mufernando
+  disqus_shortname: mufernando
+  bio: M.Sc. student at University of Sao Paulo
 
 paginate:         5
 
