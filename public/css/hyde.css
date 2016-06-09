@@ -274,3 +274,11 @@ a.sidebar-nav-item:focus {
 	width: 180px;
 	margin: 0 auto;
 }
+
+.sidebar {
+	opacity: 0.8;
+}
+
+.sidebar:hover {
+	opacity: 1.0;
+}
