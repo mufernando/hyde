@@ -94,6 +94,7 @@ html {
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   color: #DEDCD4;
+  text-decoration: none;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
