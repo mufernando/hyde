@@ -15,7 +15,7 @@ This page is going to be used to accomplish three main purposes:
 * Get experience in english writing by writing articles/books reviews
 * Expose myself as a professional scientist
 
-If you want to find out more about me, please check the [About](mufernando.github.io/about/) session. Ah, and feel free to contact me with any questions or suggestions by e-mail: <a href="mailto:murillofer.rodrigues@gmail.com">murillofer_rodrigues(at)gmail.com</a>.
+If you want to find out more about me, please check the [About](mufernando.github.io/about/) session. Ah, and feel free to contact me with any questions or suggestions by e-mail: <a href="mailto:murillofer.rodrigues@gmail.com">murillofer.rodrigues(at)gmail.com</a>.
 
 Murillo
 
