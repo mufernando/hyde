@@ -2,6 +2,7 @@
 layout: post
 title: Welcome!
 comments: True
+tags: [test]
 ---
 
 Hi, everyone!
