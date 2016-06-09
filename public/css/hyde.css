@@ -284,6 +284,6 @@ a.sidebar-nav-item:focus {
 	opacity: 1.0;
 }
 
-#removehover:hover {
+.removehover:hover {
 	text-decoration: none;
 }
