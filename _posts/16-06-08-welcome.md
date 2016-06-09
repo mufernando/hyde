@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Welcome!
-comments: True
-tags: [teste]
+comments: False
+tags:
 ---
 
 Hi, everyone!
