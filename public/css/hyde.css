@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "Rubik", "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -54,6 +54,7 @@ html {
  */
 
 .sidebar {
+  font-family: "Rubik";
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
