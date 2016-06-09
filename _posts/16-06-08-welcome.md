@@ -2,7 +2,7 @@
 layout: post
 title: Welcome!
 comments: False
-tags:
+tags: All
 ---
 
 Hi, everyone!
