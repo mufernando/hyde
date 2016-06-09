@@ -5,9 +5,9 @@
         <img src="http://mufernando.github.io/public/murillofr.jpg" />
       </div>
   
-<div id="contact-list" id="removehover" style="text-align:center">
+<div id="contact-list" class="removehover" style="text-align:center">
     {% if site.author.github %}
-      <a href="https://github.com/{{ site.author.github }}">
+      <a href="https://github.com/{{ site.author.github }}" class="removehover">
         <span class="fa-stack fa-lg">
           <i class="fa fa-square-o fa-stack-2x"></i>
           <i class="fa fa-github-alt fa-stack-1x"></i>
@@ -16,7 +16,7 @@
     {% endif %}
     
     {% if site.author.email %}
-      <a href="mailto:{{ site.author.email }}">
+      <a href="mailto:{{ site.author.email }}" class="removehover">
         <span class="fa-stack fa-lg">
           <i class="fa fa-square-o fa-stack-2x"></i>
           <i class="fa fa-envelope fa-stack-1x"></i>
