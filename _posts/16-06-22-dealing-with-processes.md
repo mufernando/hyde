@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dealing with lots of processes
+title: Dealing with processes
 comments: True
 tags: [All, Bash]
 ---
