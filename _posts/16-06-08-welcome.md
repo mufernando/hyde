@@ -9,7 +9,7 @@ Hi, everyone!
 
 Welcome to my personal webpage/blog :)
 
-This page is going to be used to accomplish three main purposes:
+I decided to create this webpage/blog, but I'm still not sure what I'm going to use the blog for. I thought of three main purposes for this blog:
 
 * Share with you some things I've learnt in the last couple years about bioinformatics/data analysis/statistics in the form of tutorials
 * Get experience in english writing by writing articles/books reviews
