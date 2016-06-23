@@ -1,20 +1,21 @@
 ---
 layout: post
 title: Dealing with processes
-comments: True
-tags: [All, Bash]
+comments: true
+tags:
+  - All
+  - Bash
 ---
-TEST
 
 We use the shell to run programs and once we hit Enter this program becomes a process. Typically, you'll have several processes running simultaneously in your machine: your web browser, an excel spreadsheet, a text editor and many others. Sometimes we are working with programs that take a long time to run, so its important to know how to deal with processes.
 
-After typing a command and hitting Enter, the shell prompt is linked to that process until its finished. However, this can kill your work flow when working with long-running programs. Instead of running processes in the foreground, it is possible to run them in the background. One way to do this is by adding an *&* to the end of the command:
+After typing a command and hitting Enter, the shell prompt is linked to that process until its finished. However, this can kill your work flow when working with long-running programs. Instead of running processes in the foreground, it is possible to run them in the background. One way to do this is by adding an _&_ to the end of the command:
 
 ```
 $ exampleprogram input.txt &
 ```
 
-Sometimes, though, we forget to add the *&* to the command. In this case, we can simply press **ctrl+Z**, what will stop the process, and then run **bg**:
+Sometimes, though, we forget to add the _&_ to the command. In this case, we can simply press **ctrl+Z**, what will stop the process, and then run **bg**:
 
 ```
 $ exampleprogram input.txt
@@ -35,7 +36,6 @@ To return the process to the foreground, run:
 $ fg
 ```
 
-
 First, let's take a look at which processes are running in the background.
 
 ```
@@ -55,6 +55,4 @@ PID    COMMAND      %CPU TIME     #TH  #WQ  #PORT MEM    PURG CMPRS  PGRP  PPID 
 13818  Google Chrom 0.0  00:05.09 12   0    115   103M   0B   41M    261   261   sleeping *0[28]          0.00000 0.00000    501
 13812  ocspd        0.0  00:00.03 1    0    16    592K   0B   492K   13812 1     sleeping *0[1]           0.00000 0.00000    0
 13811  Google Chrom 0.1  00:34.75 14   0    132   11M    0B   394M   261   261   sleeping *0[28]          0.00000 0.00000    501
-
 ```
-
