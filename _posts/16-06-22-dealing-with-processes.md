@@ -4,6 +4,7 @@ title: Dealing with processes
 comments: True
 tags: [All, Bash]
 ---
+TEST
 
 We use the shell to run programs and once we hit Enter this program becomes a process. Typically, you'll have several processes running simultaneously in your machine: your web browser, an excel spreadsheet, a text editor and many others. Sometimes we are working with programs that take a long time to run, so its important to know how to deal with processes.
 
