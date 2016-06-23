@@ -15,9 +15,9 @@ After typing a command and hitting Enter, the shell prompt becomes "busy" until 
 $ exampleprogram input.txt &
 ```
 
-Sometimes, though, we forget to add the _&_ to the command. In this case, we can simply press *ctrl+Z*, what will stop the process, and then run **bg** to put it to the background:
+Sometimes, though, we forget to add the _&_ to the command. In this case, we can simply press _ctrl+Z_, what will stop the process, and then run **bg** to put it to the background:
 
-```
+```â
 $ exampleprogram input.txt
 ^Z
 [1]+  Stopped                 exampleprogram
@@ -37,8 +37,7 @@ $ fg
 $ fg %1
 ```
 
-Killing processes is another common task. If you want to kill a process that is currently running in the foreground, just enter *ctrl+C* and the process will immediately quit. Similarly, you can put a process that is running in the background to the foreground and kill it using the same command.
-
+Killing processes is another common task. If you want to kill a process that is currently running in the foreground, just enter _ctrl+C_ and the process will immediately quit. Similarly, you can put a process that is running in the background to the foreground and kill it using the same command.
 
 A more advanced way of killing processes is using the command **kill**. But be aware that this command is powerful, so don't use it unless you know what you're doing. First, let's take a look at which processes are running in the background.
 
