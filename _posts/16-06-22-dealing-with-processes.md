@@ -40,7 +40,7 @@ $ fg %1
 Killing processes is another common task. If you want to kill a process that is currently running in the foreground, just enter *ctrl+C* and the process will immediately quit. Similarly, you can put a process that is running in the background to the foreground and kill it using the same command.
 
 
-A more advanced way of killing processes uses the command **kill**. But be aware that this command is powerful, so don't use it unless you know what you're doing. First, let's take a look at which processes are running in the background.
+A more advanced way of killing processes is using the command **kill**. But be aware that this command is powerful, so don't use it unless you know what you're doing. First, let's take a look at which processes are running in the background.
 
 ```
 $ top
