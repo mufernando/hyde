@@ -8,7 +8,7 @@ title: Introdução à Bioestatística
 </p>
 
 ##Aulas
-Todos os PDFs das aulas est~ão disponibilizados abaixo.
+Todos os PDFs das aulas estão disponibilizados abaixo.
 
 - [Aula 0 - Introdução ao R](.)
 - [Aula 1 - Teste-t](.)
