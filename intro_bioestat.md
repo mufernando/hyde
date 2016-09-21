@@ -7,7 +7,7 @@ title: Introdução à Bioestatística
   Aqui estão organizados os materiais do curso Introdução à Bioestatística da 19a. Semana Temática da Biologia (2016).
 </p>
 
-##Aulas
+<h2>Aulas</h2>
 Todos os PDFs das aulas estão disponibilizados abaixo.
 
 - [Aula 0 - Introdução ao R](.)
@@ -15,7 +15,7 @@ Todos os PDFs das aulas estão disponibilizados abaixo.
 - [Aula 2 - ANOVA](.)
 - [Aula 3 - Regressão Linear](.)
 
-##Roteiros
+<h2>Roteiros</h2>
 Roteiros que seguiremos na parte prática de cada aula.
 
 - [Roteiro 0 - Introdução ao R](.)
@@ -23,7 +23,7 @@ Roteiros que seguiremos na parte prática de cada aula.
 - [Roteiro 2 - ANOVA](.)
 - [Roteiro 3 - Regressão Linear](.)
 
-##Dados
+<h2>Dados</h2>
 Dados utilizados nos roteiros.
 
 - [Planilha Andorinhas](.)
