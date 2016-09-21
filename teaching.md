@@ -8,3 +8,4 @@ title: Teaching
 </p>
 
 * [Biostatistics with R](https://github.com/mufernando/bioestat) _(PT-BR)_
+* [Introduction to Biostatistics](http://mufernando.github.io/intro_bioestat/) _(PT-BR)_
