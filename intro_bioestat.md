@@ -7,7 +7,8 @@ title: Introdução à Bioestatística
   Aqui estão organizados os materiais do curso Introdução à Bioestatística da 19a. Semana Temática da Biologia (2016).
 </p>
 
-<h3>Antes de tudo, preencha esse formulário do Google <a href="https://goo.gl/forms/GPt4yCAaPX0lCB682">aqui</a>.<h3>
+<h2>Atenção!<h3>
+Preencha este formulário do Google [aqui](https://goo.gl/forms/bzmvHssT0H4hqEV33). Utilizaremos esses dados na última aula do curso.
 
 <h2>Aulas</h2>
 Todos os PDFs das aulas estão disponibilizados abaixo.
