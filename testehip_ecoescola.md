@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Testando hipóteses com Rsampling - EcoEscola 2017
+title: Testando hipóteses com Rsampling
 ---
 
 <p class="message">
