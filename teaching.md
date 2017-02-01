@@ -9,3 +9,4 @@ title: Teaching
 
 * [Biostatistics with R](https://github.com/mufernando/bioestat/tree/master/2016_1) _(PT-BR)_
 * [Introduction to Biostatistics](http://mufernando.github.io/intro_bioestat/) _(PT-BR)_
+* [Hypothesis testing with Rsampling](http://mufernando.github.io/testehip_ecoescola/) _(PT-BR)_
