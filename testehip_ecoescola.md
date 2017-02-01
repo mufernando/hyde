@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Análise de Dados - EcoEscola 2017
+title: Testando hipóteses com Rsampling - EcoEscola 2017
 ---
 
 <p class="message">
