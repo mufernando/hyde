@@ -11,7 +11,7 @@ My full name is Murillo Fernando Rodrigues and I am a biologist with broad inter
 
 You can find out more about me here:
 
-* [CV](http://mufernando.github.io/public/murillo_cv.pdf)
+* [CV](http://mufernando.github.io/modern-cv)
 * [Github](github.com/mufernando)
 * [Lattes](http://lattes.cnpq.br/8568338838378530)
 * [Facebook](https://www.facebook.com/murillofernandor)
