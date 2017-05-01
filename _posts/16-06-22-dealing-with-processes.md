@@ -7,9 +7,9 @@ tags:
   - Bash
 ---
 
-We use the shell to run programs and once we hit Enter this program becomes a process. Typically, you'll have several processes running simultaneously in your machine: your web browser, an excel spreadsheet, a text editor and many others. Sometimes we are working with programs that take a long time to run, so its important to know how to deal with processes.
+We use the shell to run programs and once we hit Enter this program becomes a process. Typically, you'll have several processes running simultaneously in your machine: your web browser, an excel spreadsheet, a text editor and many others. Sometimes we are working with programs that take a long time to run, so it's important to know how to deal with processes.
 
-After typing a command and hitting Enter, the shell prompt becomes "busy" until the process is finished. However, this can kill your work flow when dealing with long-running programs. Instead of running processes in the foreground, it is possible to run them in the background. One way to do this is by adding an _&_ to the end of the command:
+After typing a command and hitting Enter, the shell prompt becomes "busy" until the process is finished. However, this can kill your work flow when dealing with long-running programs. Instead of running processes in the foreground, it is possible to run them in the background. One way to do this is by adding a _&_ to the end of the command:
 
 ```
 $ exampleprogram input.txt &
@@ -24,7 +24,7 @@ $ exampleprogram input.txt
 $ bg
 ```
 
-After putting processes to the background, we might want to check what is still running. We can do that with **jobs**:
+After putting processes in the background, we might want to check what is still running. We can do that with **jobs**:
 
 ```
 $ jobs
