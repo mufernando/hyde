@@ -66,4 +66,4 @@ The first column shows us the Process ID (PID). There are many options to this c
 $ kill -9 PID
 ```
 
-This covers the basics of process management. But when putting process to the background, don't forget to redirect the **stderr** (`$ exampleprogram input.txt > output.txt 2>stderr.txt &`), otherwise you will loose valuable information!
+This covers the basics of process management. But when putting process to the background, don't forget to redirect the **stderr** (`$ exampleprogram input.txt > output.txt 2>stderr.txt &`), otherwise you will lose valuable information!
